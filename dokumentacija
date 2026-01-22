@@ -34,5 +34,27 @@ Programma piedāvā vienkāršu grafisko saskarni, kurā lietotājs izvēlas če
       5)Testēšana
 
 4.Programmatūras projektējums.
+  Tehnoloģijas:
+Python
+Tkinter
+Pillow
+Requests
+BeatifulSoup
+
+Funkcionalitātes apraksts.
+Klikšķinot uz čempionu ikonas, programma iegūst datus no op.gg un parāda itemus.
+
+5.Atkļūdošana.
+1)Uzklikšķina uz Ahri-parādas itemi.
+2)Nav interneta-kļūdas paziņojums.
+3)Programmas palaišana-logs atveras.
+
+6.Lietotaja ceļvedis.
+1)Palaid programmu
+2)Izvēlas čempionu, uzklikšķinot uz ikonas
+3)Apskata ieteiktos itemus
+
+
+
       
   
