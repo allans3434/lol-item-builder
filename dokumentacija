@@ -1,0 +1,38 @@
+1.Problēmas izpēte un analīze.
+  Problēmas skaidrojums:
+League of Legends spēlētājam spēles laikā vai pirms spēles sākuma, viņs var nezināt ko tieši pirkt uz savu čempionu.
+  Izpētes metodes:
+Personīga pieredze.
+Izpētes process:
+ Analizēju, kādu informāciju spēlētāji meklē visbiežāk un sapratu ka tie ir item builds.
+   Mērķ auditorija:
+League of Legends spēlētāji.
+  Programmatūras projekta apraksts:
+Programma piedāvā vienkāršu grafisko saskarni, kurā lietotājs izvēlas čempionu un redz ieteiktos itemus.
+
+2.Programmatūras prasību specifikācija.
+  Funkcionālās prasības:
+  Izvēlēties čempionu
+  Ielādēt itemus no op.gg
+  Parādīt itemus lietotajam
+
+  Nefunkcionālās prasības:
+  Tumš dizains.
+
+3.Programmatūras izstrādes plāns.
+    Izvēlētais izstrādes modelis ir Iteratīvais modulis, jo programma tiek pakāpeniski uzlabota.
+      1)Pamata GUI
+      2)Ikonas
+      3)Dizains
+      4)Savienojums ar op.gg
+
+    Izstrādes plāns.
+      1)Idejas izvēle
+      2)GUI izveide
+      3)Funkcionalitātes izstrāde
+      4)Dizaina uzlabošana
+      5)Testēšana
+
+4.Programmatūras projektējums.
+      
+  
